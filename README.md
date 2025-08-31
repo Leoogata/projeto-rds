@@ -2,6 +2,10 @@
 
 Este guia mostra como preparar a instância EC2, clonar o repositório, conectar ao RDS PostgreSQL, criar as tabelas e colocar a aplicação PHP no ar.
 
+## Vídeo explicando Deploy
+
+https://drive.google.com/file/d/1Z9iYFhxsrx_k-7C_RyMBCxwyyL6FaVcx/view?usp=sharing
+
 ## Pré-condições
 
 * Uma instância EC2 foi criada com acesso via SSH e HTTP.
