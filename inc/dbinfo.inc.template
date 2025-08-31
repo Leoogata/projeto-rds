@@ -1,0 +1,10 @@
+<?php
+// dbinfo.inc.template
+// Exemplo de dbinfo.inc para uso posterior
+// Renomeie para dbinfo.inc no servidor e preencha com suas credenciais.
+
+define('DB_SERVER', 'endpoint_do_banco');
+define('DB_USERNAME', 'seu_usuario');
+define('DB_PASSWORD', 'sua_senha');
+define('DB_DATABASE', 'seu_banco');
+?>
